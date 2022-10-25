@@ -5,7 +5,7 @@ Responsive Portfolio Design
 # E-Commerce-Shopping-Cart-from-Scratch-JS
 
 ## Description
-A responsive Responsive Portfolio Design using HTML,CSS, Bootstrap;
+A responsive Responsive Portfolio Design using HTML,CSS.
 
 
 
@@ -21,7 +21,7 @@ A responsive Responsive Portfolio Design using HTML,CSS, Bootstrap;
 
 * HTML
 * CSS
-* Vanilla JS (ES6)
+* Bootstrap
 
 #### Live Preview 
 
